@@ -1,0 +1,21 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
+	"default_encoding": "UTF-8",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": " Microsoft YaHei",
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"save_on_focus_lost": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
