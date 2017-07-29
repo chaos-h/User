@@ -15,7 +15,7 @@ You have to install the plugins below to make sure this work fine in your own co
     - Markdown preview
             * description: this is to preview your markdown file as html
 + Python
-    -  plugin Sublime Repel
+    -  Sublime Repel
         `Solve the problem that exist with the input function`
 
 ## How to use
