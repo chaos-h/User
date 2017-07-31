@@ -9,6 +9,8 @@ You have to install the plugins below to make sure this work fine in your own co
 + basic
     - Package Control
     It is easy to install it with `Ctrl+shift+p`
+     - BracketHighlighter
+            auto hightlight  bracket in various source files.
 + Markdown
     - Markdown extend + Monokai extended
         * description: this is  a highlight color scheme for markdown writing
@@ -17,6 +19,9 @@ You have to install the plugins below to make sure this work fine in your own co
 + Python
     -  Sublime Repel
         `Solve the problem that exist with the input function`
+    - plugin Anaconda
+        `make sublime text3 more IDE-like  `
+
 
 ## How to use
 Just replace the `User` folder with this reposite in the installation folder of sublime text3.

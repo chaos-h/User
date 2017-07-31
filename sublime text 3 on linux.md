@@ -14,7 +14,9 @@ sublime text 3 on Ubuntu 16.04 lts:
 2. the essential plug-ins to make the st a better text editor to use
 	+ basic
 		- Package Control
-		It is easy to install it with `Ctrl+shift+p`
+			It is easy to install it with `Ctrl+shift+p`
+		- BracketHighlighter
+			auto hightlight  bracket in various source files.
 	+ Markdown
 		- Markdown extend + Monokai extended
 			* description: this is  a highlight color scheme for markdown writing
@@ -34,6 +36,12 @@ sublime text 3 on Ubuntu 16.04 lts:
 			* shortcut
 				Preferences---->Keybindings---->create your own shortcut
 				`You name your keys and copy the command from the Default.sublime-commands file`
+		- plugin Anaconda
+			`make sublime text3 more IDE-like  `
+	+ git
+		- Sublime Git
+
+
 3. build c/c++ files in sublime text3
 `for linux only, you have to do something more on windows`
 Tools--->Build System--->New Build System
